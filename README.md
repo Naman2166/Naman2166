@@ -2,7 +2,5 @@
 
 *I turn ideas into systems that actually work*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
-</p>
+<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
 
