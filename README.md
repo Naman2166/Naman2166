@@ -2,5 +2,5 @@
 
 *I turn ideas into systems that actually work*
 
-<img src="./assets/3d_ball_image.gif" width="100%"/>
+<img src="./assets/3d_ball_image.gif" height="50%" width="100%"/>
 
