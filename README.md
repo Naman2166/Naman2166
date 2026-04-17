@@ -2,5 +2,5 @@
 
 *I turn ideas into systems that actually work*
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+<img src="./assets/3D_ball_image.gif" width="200"/>
 
