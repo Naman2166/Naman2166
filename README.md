@@ -3,6 +3,6 @@
 *I turn ideas into systems that actually work*
 
 <p align="center">
-  <img src="https://i.imgur.com/llF5iyg.gif" width="80"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
 </p>
 
